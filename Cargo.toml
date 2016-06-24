@@ -1,0 +1,6 @@
+[package]
+name = "bird-test"
+version = "0.1.0"
+authors = ["Rogier Velting <rogiervelting@gmail.com>"]
+
+[dependencies]
